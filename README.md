@@ -1,2 +1,2 @@
-# simongame.github.io
+# simongame
 Game
